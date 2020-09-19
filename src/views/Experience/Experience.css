@@ -19,7 +19,7 @@
 .timeline-item:hover {
   -webkit-transform: scale(2);
   transform: scale(2);
-  background-color: cornflowerblue;
+  background-color: lightcoral;
 }
 
 .timeline-ball {
@@ -27,7 +27,7 @@
   width: 24px;
   height: 24px;
   border-radius: 12px;
-  background: crimson;
+  background: lavender;
 }
 
 .experience-info {
