@@ -1,15 +1,7 @@
-## Your Name
+## Addison Zhang
 
 Welcome to my website!
 
-### Added Feature #1
+### Added Education Section 
 
-Description
-
-Screenshots
-
-### Added Feature #2
-
-Description
-
-Screenshots
+Just shows my schools and "mascots"
